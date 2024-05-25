@@ -14,7 +14,7 @@
 
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/poverty-help
+登录地址: https://www.skywalking.pro/poor-assist/
 登录账号: admin
 登录密码: 123456
 ```
